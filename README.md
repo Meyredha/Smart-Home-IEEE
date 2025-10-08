@@ -1,0 +1,10 @@
+ Develop an adaptive, responsive, and user-friendly smart home system to improve the quality of life for individuals with disabilities. Integration of internet of things (IOT), Artificial intelligence (AI), and voice recognition.
+ It is used to access the automated lighting and climate control and emergency alerts for caregivers and medical professionals.New concepts include emotion-sensing technology to adjust lighting, temperature, and ambiance based on the occupants mood,
+ and AI-powered health monitoring systems that track wellness indicators and offer personalized recommendations for improving daily life. The system integrates smart appliances that not only performs tasks but also learn from user interaction, creating 
+ a more personalized and energy-efficient home environment. An abstract AI smart home system for people with disabilities could be called "Aura Sense"—a deeply intuitive, emotionally intelligent, and context-aware home environment. 
+ Unlike traditional smart homes, Aura Sense leverages AI to read and respond to the user’s emotional and cognitive states in real time. Through neural interfaces, emotion recognition via voice and facial cues, and ambient sensing of physical conditions, 
+ Aura Sense adapts the home to ensure comfort, safety, and emotional well-being. It can detect stress, anxiety, or cognitive overload, automatically adjusting lighting, temperature, or even music to create a calming space. For individuals with limited mobility, 
+ cognitive impairments, or sensory needs, the system learns personal patterns and anticipates needs without requiring explicit commands, offering a seamless interaction through thought, emotion, and gesture. By blending emotional intelligence with smart home technology, 
+ Aura Sense empowers users to live independently while ensuring they feel understood and supported. By integrating these features, Aura Sense becomes an even more comprehensive solution, addressing both physical and emotional needs, while empowering users to live with increased 
+ independence, comfort, and safety. 
+
